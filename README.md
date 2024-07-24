@@ -2,7 +2,8 @@ Data Professional Survey Dashboard
 
 This interactive dashboard is designed to provide insights into the survey responses of data professionals across various domains. The dashboard is built using Microsoft PowerBI and offers a comprehensive view of the data, including demographic information, professional experiences, programming tools of interest amongst various data professionals, information on salaries across various industries and  opinions on industry trends.
 
-This survey was conducted by @AlextheAnalyst and the dataset was gotten from his github page.
+This survey data was prepared by @AlextheAnalyst and the dataset was gotten from his github page.
+
 
 
 ### Steps followed 
